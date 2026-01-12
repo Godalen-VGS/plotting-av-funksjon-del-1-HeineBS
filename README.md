@@ -19,3 +19,11 @@ c) Regn ut nullpunktene til grafen numerisk (det vil si ved å prøve veldig man
 d) Lag programmet slik at det regner seg frem numerisk til x-verdiene hvor aksene skjærer hverandre.
 
 e) Regn ut x-koordinatet til symmetrilinja til grafen og plott en vertikal stiplet linje der.
+
+f) Regn ut gjennomsnittlig vekstfart mellom x=-1 og x=3.
+
+g) Plot en rett linje som går gjennom de to punktene fra oppgave f.
+
+h) Estimer den momentane vekstfarten i x=-4 ved å regne ut gjennomsnittlig vekstfart i intervallet [-4.01, -3.99].
+
+i) Plot den rette linja (tangenten) som går gjennom x=-4.
